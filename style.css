@@ -1,3 +1,19 @@
 h1 {
     color: red;
 }
+
+h2{
+    margin: 0px;
+}
+
+p{
+    margin: 0px 0px 30px 0px;
+}
+
+li{
+    float: none;
+}
+
+.my-artwork{
+    padding: 30px;
+}
